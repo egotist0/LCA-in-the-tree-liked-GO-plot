@@ -1,4 +1,4 @@
-# bi290-project
+#  New Method to treat LCA in the tree-liked GO plot 
 our project can **solve the problem of finding LCA in the tree-liked GO plot** (which absolutely isn't a tree struct) using the jumping method (or multiplication method)
 
 we use the slim GO file *goslim_generic.obo* as a demonstration, you can download any GO file to analyze in the GO database :http://geneontology.org/
